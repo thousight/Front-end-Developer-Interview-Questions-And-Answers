@@ -17,7 +17,10 @@ We can enforce browsers to use standards mode with a `<!DOCTYPE html>` tag.
 
 #### What's the difference between HTML and XHTML?
 
-*Not answered yet*
+Syntax differences developed by different organizations. HTML is SGML-based 
+while XHTML is XML-based. And XHTML is more strict than HTML, therefore HTML
+can look different in different browsers while XHTML look the same. More details 
+can be found in this link: http://www.diffen.com/difference/HTML_vs_XHTML
 
 #### Are there any problems with serving pages as `application/xhtml+xml`?
 
